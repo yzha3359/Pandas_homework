@@ -12,7 +12,7 @@ Exponentially Weighted Average**
 **Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot**
 ### Custom portfolio
 **Calculate the Annualized Standard Deviation.**
-    1. Calculate and plot rolling `std` with a 21-day window.
-    2. Calculate and plot the correlation.
-    3. Calculate and plot the 60-day rolling beta for your portfolio compared to the S&P 60 TSX.
-    4. Calculate the Sharpe ratios and generate a bar plot.
+1. Calculate and plot rolling `std` with a 21-day window.
+2. Calculate and plot the correlation.
+3. Calculate and plot the 60-day rolling beta for your portfolio compared to the S&P 60 TSX.
+4. Calculate the Sharpe ratios and generate a bar plot.
